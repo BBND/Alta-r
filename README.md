@@ -14,6 +14,13 @@
 - **Tansfer zone: Get all DNS records for a target domain**
 - **Cloudflare detector: Check if a site is secured by Cloudflare (security service in case of denial of service attack, data breach or malicious bot)**
 
+## Install
+
+```sh
+$ git clone https://github.com/BBND/Alta-r
+$ cd Alta-r
+```
+
 ## How it works ?
 
 | Argument | Description |
